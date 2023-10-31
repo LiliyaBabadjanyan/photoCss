@@ -87,11 +87,11 @@
 }
 .slick-prev:before
 {
-    content: '←';
+    content: '↢';
 }
 [dir='rtl'] .slick-prev:before
 {
-    content: '→';
+    content: '↣';
 }
 
 .slick-next
@@ -109,7 +109,7 @@
 }
 [dir='rtl'] .slick-next:before
 {
-    content: '/';
+    content: '↢';
 }
 
 /* Dots */
