@@ -8,3 +8,9 @@ html {
     background: dimgray;
     border-radius: 20px;
 }
+
+img {
+  width: 720px;
+  height: 720px;
+
+}
